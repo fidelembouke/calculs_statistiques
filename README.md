@@ -1,6 +1,6 @@
 # Mean-Variance-Standard Deviation Calculator
 
-Ce projet permet de calculer la moyenne, la variance, l'écart-type, le maximum, le minimum et la somme pour une liste de neuf nombres. Le programme est structuré pour accepter une liste, la convertir en matrice 3x3, et effectuer les calculs de manière efficace, le but étant de renvoyer un dictionnaire contenant la moyenne, la variance, l'écart type, le maximum, le minimum et la somme le long des deux axes et pour la matrice aplatie. Un résultat attendu se préenterait sous cette forme:
+Ce projet permet de calculer la moyenne, la variance, l'écart-type, le maximum, le minimum et la somme pour une liste de neuf nombres. Le programme est structuré pour accepter une liste, la convertir en matrice 3x3, et effectuer les calculs de manière efficace, l'objectif étant de renvoyer un dictionnaire contenant la moyenne, la variance, l'écart type, le maximum, le minimum et la somme le long des deux axes et pour la matrice aplatie. Un résultat attendu se préenterait sous cette forme:
 
 {
   'mean': [axis1, axis2, flattened],
